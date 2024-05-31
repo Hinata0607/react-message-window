@@ -1,5 +1,5 @@
 function App() {
-	return <>aa aaaa a a</>;
+	return <></>;
 }
 
 export default App;
